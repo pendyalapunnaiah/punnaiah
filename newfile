@@ -1,0 +1,24 @@
+punna@DESKTOP-NA4JT2B MINGW64 /e/Git/punnaiah (master)
+$ git log
+commit e281ee54144e6822cf0c80e78cd070dd008a659d (HEAD -> master, origin/master, origin/HEAD)
+Author: pendyalapunnaiah <45825950+pendyalapunnaiah@users.noreply.github.com>
+Date:   Wed Dec 12 22:35:26 2018 +0530
+
+    recepive file created
+
+punna@DESKTOP-NA4JT2B MINGW64 /e/Git/punnaiah (master)
+$ git add f1
+
+punna@DESKTOP-NA4JT2B MINGW64 /e/Git/punnaiah (master)
+$ git commit -m "this is my secoond file in this session " f1
+[master 31df1b1] this is my secoond file in this session
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 f1
+
+punna@DESKTOP-NA4JT2B MINGW64 /e/Git/punnaiah (master)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+
